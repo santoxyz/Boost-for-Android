@@ -8,7 +8,7 @@
 #---------------------------------------------------------------------------------
 
 # Specify the path to boost src dir 
-BOOST_SRC_DIR=/home/declan/Documents/zone/mid/lib/boost
+BOOST_SRC_DIR=/home/s/workspace/Boost-for-Android
 
 # Specify the version of boost in the source dir
 #BOOST_VERSION=1.64.0
@@ -16,7 +16,7 @@ BOOST_VERSION=1.65.1
 
 # Specify path to (Google) Ndk
 #GOOGLE_DIR=/home/declan/Documents/zone/mid/lib/android/sdk/ndk-bundle
-GOOGLE_DIR=/home/declan/Documents/zone/mid/lib/android/ndk/15c/android-ndk-r15c
+GOOGLE_DIR=/home/s/Android/Sdk/ndk-bundle
 #GOOGLE_DIR=/home/declan/Documents/zone/mid/lib/android/ndk/16b1/android-ndk-r16-beta1
 
 
